@@ -24,7 +24,7 @@ Este é um aplicativo simples de análise de números reais.
    ```bash
    php -S localhost:8080
    ```
-   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080/index.html](http://localhost:8080/index.html).
 
 3. **Interagir com o Projeto:**
    1. Insira um número real no campo fornecido.
